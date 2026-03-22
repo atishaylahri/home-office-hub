@@ -34,3 +34,16 @@ paginate = 10
   home = ["HTML", "RSS"]
   page = ["HTML"]
   section = ["HTML", "RSS"]
+
+[[menu.footer]]
+  name = "Affiliate Disclosure"
+  url = "/affiliate-disclosure/"
+  weight = 1
+[[menu.footer]]
+  name = "Privacy Policy"
+  url = "/privacy/"
+  weight = 2
+[[menu.footer]]
+  name = "About"
+  url = "/about/"
+  weight = 3
