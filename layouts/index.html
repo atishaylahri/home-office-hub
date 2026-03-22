@@ -18,6 +18,6 @@
     </article>
     {{ end }}
   </div>
-  <a href="{{ "/posts/" | relURL }}" class="view-all">View All Articles &rarr;</a>
+  {{ with .Site.GetPage "section" "posts" }}<a href="{{ .Permalink }}" class="view-all">View All Articles &rarr;</a>{{ end }}
 </section>
 {{ end }}
