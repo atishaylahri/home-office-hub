@@ -1,9 +1,7 @@
 ---
 title: "Privacy Policy"
-description: "Home Office Hub privacy policy"
+description: "Home Office Hub privacy policy — how we handle your data"
 ---
-
-## Privacy Policy
 
 **Last updated: March 2026**
 

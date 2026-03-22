@@ -3,8 +3,6 @@ title: "Affiliate Disclosure"
 description: "Home Office Hub affiliate disclosure and FTC compliance statement"
 ---
 
-## Affiliate Disclosure
-
 **Last updated: March 2026**
 
 Home Office Hub participates in affiliate marketing programs. This means we may earn a commission when you click links on our site and make a purchase — at no additional cost to you.
