@@ -1,0 +1,36 @@
+baseURL = "https://YOUR_GITHUB_USERNAME.github.io/home-office-hub/"
+languageCode = "en-us"
+title = "Home Office Hub"
+enableRobotsTXT = true
+paginate = 10
+
+[params]
+  description = "Expert reviews and buying guides for home office tech and productivity tools"
+  author = "Home Office Hub"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    identifier = "disclosure"
+    name = "Disclosure"
+    url = "/affiliate-disclosure/"
+    weight = 3
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
