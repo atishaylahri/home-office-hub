@@ -30,12 +30,11 @@ jobs:
 
       - name: Build
         run: hugo --minify
-        working-directory: "Passive Income"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "Passive Income/public"
+          path: ./public
 
   deploy:
     environment:
