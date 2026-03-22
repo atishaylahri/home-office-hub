@@ -24,7 +24,7 @@ It's plug-and-play on Windows and Mac with no software required, though the Logi
 **Best for:** Anyone who wants reliable, professional-looking video without overspending.
 **Price range:** ~$69
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## Logitech Brio 4K — Best 4K Option
 
@@ -35,7 +35,7 @@ The Brio also supports Windows Hello facial recognition, making it double duty a
 **Best for:** Executives, content creators, or anyone who regularly presents on video and wants premium image quality.
 **Price range:** ~$149–$199
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## Razer Kiyo Pro — Best for Low Light
 
@@ -46,7 +46,7 @@ It shoots at 1080p 60fps or 720p 60fps, with an adaptive light sensor that autom
 **Best for:** Home offices without great natural light, or evening calls from dimly lit rooms.
 **Price range:** ~$99–$129
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## Anker PowerConf C300 — Best Budget Premium
 
@@ -57,7 +57,7 @@ It connects via USB-C and works with Zoom, Teams, Google Meet, and all other maj
 **Best for:** Budget-conscious buyers who still want genuinely good video and audio quality.
 **Price range:** ~$59–$79
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## Elgato Facecam Pro — Best for Streamers and Presenters
 
@@ -68,7 +68,7 @@ There's no built-in microphone, which keeps the sensor clean but means you'll ne
 **Best for:** Content creators, streamers, and professionals who want total control over their image.
 **Price range:** ~$199–$249
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## Things to Consider Before Buying
 

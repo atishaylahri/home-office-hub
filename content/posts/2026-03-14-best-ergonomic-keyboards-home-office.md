@@ -24,7 +24,7 @@ It connects to up to three devices simultaneously and switches between them with
 **Best for:** Professionals who want a quiet, polished keyboard for all-day typing.
 **Price range:** ~$99
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## Keychron K8 Pro — Best Mechanical Option
 
@@ -35,7 +35,7 @@ The K8 Pro works both wired and wireless, supports Mac and Windows layouts with 
 **Best for:** Typists who want mechanical feel with flexibility and value.
 **Price range:** ~$89–$109
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## Microsoft Ergonomic Keyboard — Best Split Design
 
@@ -46,7 +46,7 @@ It's wired only (USB), which keeps latency at zero and removes battery concerns 
 **Best for:** Anyone dealing with wrist pain who wants an affordable, proven ergonomic design.
 **Price range:** ~$45–$55
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## Kinesis Freestyle Pro — Best Fully Split
 
@@ -57,7 +57,7 @@ It supports mechanical switches (Cherry MX Brown or Red), fully programmable key
 **Best for:** Power users with serious wrist or shoulder issues who want maximum adjustability.
 **Price range:** ~$179
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## Logitech K380 — Best for Small Spaces and Portability
 
@@ -68,7 +68,7 @@ The round, low-profile keys are surprisingly comfortable, and the compact layout
 **Best for:** Minimalist setups, small desks, or workers who alternate between devices constantly.
 **Price range:** ~$39
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## What to Look for in an Ergonomic Keyboard
 

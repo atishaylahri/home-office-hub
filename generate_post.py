@@ -27,7 +27,7 @@ POSTS_DIR   = Path(__file__).parent / "content" / "posts"
 MODEL       = "claude-haiku-4-5-20251001"
 
 # Replace with your real Amazon Associates ID after approval
-AMAZON_ASSOCIATE_ID = "homeoffice-hub-20"
+AMAZON_ASSOCIATE_ID = "homeoffice038-20"
 
 SYSTEM_PROMPT = """\
 You are an expert content writer for a home office technology affiliate blog.

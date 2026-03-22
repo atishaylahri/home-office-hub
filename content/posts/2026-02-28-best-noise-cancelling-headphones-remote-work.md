@@ -24,7 +24,7 @@ Sound quality for music is warm and detailed, and Sony's Speak-to-Chat feature a
 **Best for:** Remote workers who want the best ANC on the market for focus and music listening.
 **Price range:** ~$299–$349
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## Bose QuietComfort 45 — Best Comfort
 
@@ -35,7 +35,7 @@ It delivers 24 hours of battery life, folds flat for travel, and has a reliable,
 **Best for:** People who prioritise wearing comfort above all else.
 **Price range:** ~$249–$279
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## Jabra Evolve2 55 — Best for Calls
 
@@ -46,7 +46,7 @@ It's certified for Microsoft Teams and supports both Bluetooth and USB connectio
 **Best for:** Remote workers who are on calls most of the day and need the clearest possible microphone.
 **Price range:** ~$349–$379
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## Apple AirPods Pro (2nd Gen) — Best for Mac and iPhone Users
 
@@ -57,7 +57,7 @@ Spatial Audio with head tracking is impressive for music and video. Battery life
 **Best for:** Apple ecosystem users who prefer in-ear over over-ear designs.
 **Price range:** ~$229–$249
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## Anker Soundcore Q45 — Best Budget Pick
 
@@ -68,7 +68,7 @@ It folds flat, charges via USB-C, and supports both wired and wireless use. For 
 **Best for:** Budget-conscious buyers who want ANC without paying premium prices.
 **Price range:** ~$59–$79
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## ANC Headphones: What Actually Matters
 

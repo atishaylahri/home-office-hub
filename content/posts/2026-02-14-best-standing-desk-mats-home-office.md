@@ -24,7 +24,7 @@ This isn't just about comfort — the movement it promotes is the whole point of
 **Best for:** People who want a mat that actively encourages movement and better posture, not just cushioning.
 **Price range:** ~$99
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## Sky Solutions Anti-Fatigue Mat — Best Budget Pick
 
@@ -35,7 +35,7 @@ It's flat (no contours), which suits people who prefer a neutral standing surfac
 **Best for:** Budget buyers who want solid, reliable cushioning without the topography features.
 **Price range:** ~$35–$55
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## WellnessMats Original — Best Premium Flat Mat
 
@@ -46,7 +46,7 @@ They're expensive, but buyers often note that the WellnessMat outlasts two or th
 **Best for:** People who want a long-term investment and prefer a firmer, flatter premium surface.
 **Price range:** ~$99–$149
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## FlexiSpot BS1 Anti-Fatigue Mat — Best Dual-Purpose
 
@@ -57,7 +57,7 @@ The dual-surface design gives you flexibility depending on the day and whether y
 **Best for:** Home office workers who want versatility and the option to use the mat barefoot.
 **Price range:** ~$49–$69
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## Gorilla Grip Extra Thick — Best for Bare Floors
 
@@ -68,7 +68,7 @@ It's machine washable (the cover is removable), which is a meaningful practical 
 **Best for:** People with hardwood or tile floors who need maximum grip and easy cleaning.
 **Price range:** ~$35–$50
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## How to Choose a Standing Mat
 

@@ -24,7 +24,7 @@ The monitor also includes a USB-A hub with three ports, eliminating the need for
 **Best for:** The go-to recommendation for most home office workers upgrading to 4K.
 **Price range:** ~$449–$499
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## Dell UltraSharp U2723QE 27" — Best Colour Accuracy
 
@@ -35,7 +35,7 @@ It covers 100% sRGB and 98% DCI-P3, making it suitable for photo editing and des
 **Best for:** Creative professionals, photographers, and designers who need colour accuracy alongside productivity.
 **Price range:** ~$549–$629
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## LG 34WN80C-B 34" Ultrawide — Best Ultrawide
 
@@ -46,7 +46,7 @@ USB-C with 96W power delivery keeps your desk clean, and the panel supports HDR1
 **Best for:** Multitaskers who want to replace a dual-monitor setup with one clean display.
 **Price range:** ~$499–$549
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## BenQ GW2785TC 27" FHD — Best Budget Eye Care
 
@@ -57,7 +57,7 @@ For budget buyers who spend long hours in front of a screen, the eye comfort fea
 **Best for:** Budget-conscious buyers who prioritise eye comfort during long workdays.
 **Price range:** ~$179–$219
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## ASUS ProArt PA279CRV 27" 4K — Best for Creatives
 
@@ -68,7 +68,7 @@ It connects via USB-C Thunderbolt 4 with 96W power delivery and includes a USB h
 **Best for:** Creative professionals who need factory-accurate colour and don't want to calibrate manually.
 **Price range:** ~$499–$549
 
-[Check Price on Amazon](https://amazon.com?tag=homeoffice-hub-20)
+[Check Price on Amazon](https://amazon.com?tag=homeoffice038-20)
 
 ## Monitor Buying Guide: What Matters Most
 
