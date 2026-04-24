@@ -166,6 +166,19 @@ a:hover { text-decoration: underline; }
 }
 .post-content a[href*="amazon.com"]:hover { background: #e08800; }
 
+/* ── Hero Image ────────────────────────────────────────── */
+.post-hero-image {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.post-hero-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
 /* ── Footer ────────────────────────────────────────────── */
 .site-footer {
   background: #111;

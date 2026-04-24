@@ -12,6 +12,11 @@
     </div>
     <p class="affiliate-notice"><em>This post contains affiliate links. <a href="/affiliate-disclosure/">Learn more.</a></em></p>
   </header>
+  {{ with .Params.image }}
+  <figure class="post-hero-image">
+    <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+  </figure>
+  {{ end }}
   <div class="post-content">
     {{ .Content }}
   </div>

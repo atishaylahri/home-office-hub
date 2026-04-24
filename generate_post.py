@@ -69,7 +69,8 @@ Return ONLY a valid JSON object — no markdown code fences, no extra text — w
   "description": "Compelling meta description (150-160 chars)",
   "tags": ["tag1", "tag2", "tag3"],
   "excerpt": "2-3 sentence excerpt summarising the article",
-  "content": "Full article in markdown (1200-1800 words)"
+  "content": "Full article in markdown (1200-1800 words)",
+  "image_url": "https://images.unsplash.com/photo-xxxxx?w=1200&q=80"
 }}
 
 Requirements for the content field:
@@ -80,6 +81,13 @@ Requirements for the content field:
 - Use real product names (Logitech, Sony, Dell, LG, Keychron, etc.)
 - Keep tone helpful and genuine — not salesy
 - Escape all quotes and newlines properly so the JSON is valid
+
+Image URL Instructions:
+- Find ONE relevant product/home office/workspace image from Unsplash
+- Search Unsplash for images matching the topic (e.g., "best keyboards" → mechanical keyboard images)
+- Use direct download URL format: https://images.unsplash.com/photo-[ID]?w=1200&q=80
+- If no good thematic match found, set image_url to null
+- Do NOT invent URLs — only use valid Unsplash image URLs you're confident about
 """
 
     message = client.messages.create(
@@ -109,6 +117,10 @@ def save_post(post: dict) -> Path:
 
     tags_yaml = "\n".join(f'  - "{tag}"' for tag in post.get("tags", []))
 
+    # Extract image URL if present and not null
+    image_url = post.get("image_url") or ""
+    image_yaml = f'image: "{image_url}"\n' if image_url else ""
+
     front_matter = f"""---
 title: "{post['title']}"
 date: {today}
@@ -117,7 +129,7 @@ slug: "{slug}"
 tags:
 {tags_yaml}
 excerpt: "{post['excerpt']}"
-draft: false
+{image_yaml}draft: false
 ---
 
 """
